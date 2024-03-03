@@ -33,10 +33,12 @@ Profit by Month: A bar chart that shows the profit made in each month.
 Profit by State: A table that shows the profit made in each state.
 
 
-#Project Insight:
-<
+
 Sales by Product Category:  A pie chart that shows the percentage of sales for each product category.
 
 Sales by Sub-Category:  This section likely  provides a breakdown of sales by subcategory within a particular category.  In the example it shows subcategories of Electronics.
 
 Order Details by Month: This section may allow users to drill down into the details of orders placed each month.
+
+#Project Insight:
+![Project](https://github.com/Tanvir4247/Project_PowerBI/blob/80619c478e57b4f06ec070a8b656c5573e8e1392/1920%201080.jpg)
