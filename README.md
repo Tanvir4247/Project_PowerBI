@@ -32,6 +32,9 @@ Profit by Month: A bar chart that shows the profit made in each month.
 
 Profit by State: A table that shows the profit made in each state.
 
+
+#Project Insight:
+<
 Sales by Product Category:  A pie chart that shows the percentage of sales for each product category.
 
 Sales by Sub-Category:  This section likely  provides a breakdown of sales by subcategory within a particular category.  In the example it shows subcategories of Electronics.
