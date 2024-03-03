@@ -39,4 +39,4 @@ Sales by Sub-Category:  This section likely  provides a breakdown of sales by su
 Order Details by Month: This section may allow users to drill down into the details of orders placed each month.
 
 #Project Insight:
-![Project](https://github.com/Tanvir4247/Project_PowerBI/blob/80619c478e57b4f06ec070a8b656c5573e8e1392/1920%201080.jpg)
+![Project](https://github.com/Tanvir4247/Project_PowerBI/blob/bc1e85e93f40c1f120f5486260082f1b96078f32/Dashboard.png)
